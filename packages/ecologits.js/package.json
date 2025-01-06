@@ -11,5 +11,8 @@
     "prepublishOnly": "yarn build",
     "watch": "tsc-watch --noClear",
     "clean": "rm -rf es"
+  },
+  "dependencies": {
+    "typescript": "^5.7.2"
   }
 }
